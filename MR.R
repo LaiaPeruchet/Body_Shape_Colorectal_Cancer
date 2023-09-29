@@ -1,7 +1,7 @@
 
 # Mendelian Randomization Analysis - Body Shape Phenotypes -> Colorectal cancer
 
-## Upload the file with summary data for the body shape phenotype and colorectal cancer
+## Load the file with summary data for the body shape phenotype and colorectal cancer
 ### In this, there are 
 ### Genetic variants that surpass the 10^-8 threshold for each body shape and their match in GECCO consortium summary statistics
 
