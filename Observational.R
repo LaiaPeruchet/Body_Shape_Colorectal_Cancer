@@ -11,8 +11,7 @@ options(datadist='dd')
 ### Model was adjusted by socio-demographic and lifestyle factors as well as medication, 
 ###family history of colorectal cancer and bowel cancer screening
 
-a <- cph(Surv(age, age_exit, colorectal) ~ PC1_win + PC2_win + PC3_win + PC4_win_invert + 
-           ethnic6 + townsend_deprivation_index + nsaid +
+a <- cph(Surv(age, age_exit, colorectal) ~ PC1_win + ethnic6 + townsend_deprivation_index + nsaid +
            educat4 + smoke_stat + METminweekTotal + SBTotal + score_diet +  alc_int_freq + milk_intake +
            hormone_therapy + family_hist_crc +
            bowel_cancer_screening + 
