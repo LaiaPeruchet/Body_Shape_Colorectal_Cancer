@@ -1,5 +1,5 @@
 
-#This code has been adapted from the BOLT-LMM v2.4.1 User Manual available at: https://alkesgroup.broadinstitute.org/BOLT-LMM/BOLT-LMM_manual.html
+#This code has been adapted from the BOLT-LMM v2.3.5 User Manual available at: https://alkesgroup.broadinstitute.org/BOLT-LMM/BOLT-LMM_manual.html
 
 /home/BOLT-LMM_v2.3.5/bolt \
     --bed=ukb_chr{1:22}.bed \
