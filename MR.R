@@ -39,7 +39,6 @@ mr_allmethods(MRObject)
 
 ### By formula
 
-mr_ivw(MRObject, model = "fixed")
 mr_ivw(MRObject, model = "random")
 mr_egger(MRObject)
 mr_median(MRObject)
